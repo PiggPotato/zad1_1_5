@@ -25,6 +25,5 @@ public class SQLRequests {
 
     public static final String CLEAN_TABLE = "TRUNCATE users;";
 
-
     public static final String DROP_TABLE = "DROP TABLE users;";
 }
